@@ -1,0 +1,9 @@
+
+  Migration name ........................ Batch / Status  
+  0001_01_01_000000_create_users_table ......... [1] Ran  
+  0001_01_01_000001_create_cache_table ......... [1] Ran  
+  0001_01_01_000002_create_jobs_table .......... Pending  
+  2026_01_11_000000_create_movies_table ........ Pending  
+  2026_01_11_000001_create_watch_history_table . Pending  
+  2026_01_11_160053_create_personal_access_tokens_table  Pending  
+
